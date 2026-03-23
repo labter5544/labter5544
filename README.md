@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase, or any type of coding program**
 
-⚡ Fun fact **I've written 50+ Discord bots with zero regrets and infinite debugging stories!**
+⚡ Fun fact **I've written 15+ Discord bots with zero regrets and infinite debugging stories!**
 
  </div>
  
